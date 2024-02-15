@@ -23,7 +23,7 @@ body{
     align-items: center;
     justify-content: space-between;
 }
-@media screen and (max-width: 600px) {
+@media screen {
     .search input {
         border: 0;
         outline: 0;
